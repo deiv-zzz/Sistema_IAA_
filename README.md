@@ -19,3 +19,13 @@ Yael,
 Juan pablo y 
 Nery 
 estos serian todo los colaboradores del proyecto de repositorio
+
+
+participantes de nuestro equipo 
+Ethan, 
+Emmanuel,
+Ismael,
+Yael, 
+Juan pablo y 
+Nery 
+estos son los integrantes de nuestro equipo 
