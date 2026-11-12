@@ -11,11 +11,11 @@ Requerimentos minímos:
 Software un sistema operativo (Windows)
 Hardware. RAM 4 GB, DD250 GB
 
-colabodaros
-ethan 
-emmanuel
-ismael
-yael 
-juan pablo 
-nery 
-estos serian todo los colaboradores
+colaboradores:
+Ethan, 
+Emmanuel,
+Ismael,
+Yael, 
+Juan pablo y 
+Nery 
+estos serian todo los colaboradores del proyecto de repositorio
