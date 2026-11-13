@@ -31,3 +31,17 @@ Juan pablo y
 Nery 
 estos son los integrantes de nuestro equipo
 esto se creo el 12/11/2026 
+
+
+personajes relevantes:
+ethan,
+emmanuel y 
+ismael 
+
+
+Nombres de los mas aplicados :
+Ismael,
+Ethan,
+Emmanuel,
+Yael,y 
+Juan pablo.
