@@ -52,3 +52,6 @@ personajes que menos ayudaron :
 Juan pablo y 
 Nery
 estos fueron los personajes que casi  no ayudaron.
+
+ hora del proyecto 
+este proyecto lo hicimos el dia 12 del 11 del 2026 a las 6:15.
