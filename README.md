@@ -45,3 +45,10 @@ Ethan,
 Emmanuel,
 Yael,y 
 Juan pablo.
+
+
+
+personajes que menos ayudaron :
+Juan pablo y 
+Nery
+estos fueron los personajes que casi  no ayudaron.
