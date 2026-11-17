@@ -29,42 +29,4 @@ Ismael,
 Yael, 
 Juan pablo y 
 Nery 
-estos son los integrantes de nuestro equipo
-esto se creo el 12/11/2026 
-
-
-personajes relevantes:
-ethan,
-emmanuel y 
-ismael 
-
-
-Nombres de los mas aplicados :
-Ismael,
-Ethan,
-Emmanuel,
-Yael,y 
-Juan pablo.
-
-
-
-personajes que menos ayudaron :
-Juan pablo y 
-Nery
-estos fueron los personajes que casi  no ayudaron.
-
- hora del proyecto 
-este proyecto lo hicimos el dia 12 del 11 del 2026 a las 6:15.
-
-regresamos con el trabajo el 17/11/2026
-
-
-hoy es 17/11/26 y seguimos con el proyecto:
-emmanuel,
-ethan,
-nery,
-ismael,
-juan,
-yael. saludos banda 
-
-creamos las modificamos y  agregamos cosass
+estos serian todo los colaboradores del proyecto de repositorio
