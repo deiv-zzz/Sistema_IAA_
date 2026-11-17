@@ -28,3 +28,5 @@ yael, y
 nery 
 esto lo hicimos hoy el dia 12/11/26
 a las 5:40
+
+el dia 17/11/2026 iniciamos nuevamente con el repositorio
