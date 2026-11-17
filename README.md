@@ -57,3 +57,12 @@ estos fueron los personajes que casi  no ayudaron.
 este proyecto lo hicimos el dia 12 del 11 del 2026 a las 6:15.
 
 regresamos con el trabajo el 17/11/2026
+
+
+hoy es 17/11/26 y seguimos con el proyecto:
+emmanuel,
+ethan,
+nery,
+ismael,
+juan,
+yael. saludos banda 
