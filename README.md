@@ -19,3 +19,12 @@ Yael,
 Juan pablo y 
 Nery 
 estos serian todo los colaboradores del proyecto de repositorio
+personajes:
+ethan,
+emmanuel,
+isma,
+juan,
+yael, y 
+nery 
+esto lo hicimos hoy el dia 12/11/26
+a las 5:40
