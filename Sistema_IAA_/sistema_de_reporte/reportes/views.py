@@ -33,4 +33,4 @@ def crear_reporte(request):
         'form': form,
         'titulo': 'Generar Reporte de Alumno',
         'reportes': reportes
-    })
+    
